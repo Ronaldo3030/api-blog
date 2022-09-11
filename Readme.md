@@ -11,9 +11,11 @@ Essa api foi feita para fins de estudos de Api e banco de dados.
 * [SWAGGER](https://swagger.io/) - Swagger é um conjunto de ferramentas para desenvolvedores de API da SmartBear Software e uma especificação anterior na qual a especificação OpenAPI é baseada.
 
 ## Instalação
-    Baixar ou clonar o repositório
-
-    Dentro da pasta raiz rodar: npm install
+Baixar ou clonar o repositório.
+Dentro da pasta raiz rodar: 
+    
+    npm install
+    
 ## Rodando o app
 
     npm start
